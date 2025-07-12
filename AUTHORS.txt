@@ -1,0 +1,6 @@
+Progetto di Sistemi Operativi
+Anno Accademico 2022-2023
+PandOS Livello 2
+
+Manuel Bacci 	0001040090
+Shanshan Feng 	000890555
